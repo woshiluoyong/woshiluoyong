@@ -6,6 +6,7 @@
 </p>
 
 ![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=woshiluoyong&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woshiluoyong&layout=compact)](https://github.com/woshiluoyong)
 
 MyJianSu:[https://www.jianshu.com/u/9426aa3ff4ae](https://www.jianshu.com/u/9426aa3ff4ae)
 
